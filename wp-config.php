@@ -29,7 +29,7 @@ define('DB_USER', 'tqyhblyyhkarld');
 define('DB_PASSWORD', '728f7ae90627446b40c5df59c5e28ab1b8c965966acb9ad91b46c83b727f52dc');
 
 /** MySQL hostname */
-define('DB_HOST', 'ec2-54-225-88-191.compute-1.amazonaws.com:5432');
+define('DB_HOST', 'ec2-54-225-88-191.compute-1.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
